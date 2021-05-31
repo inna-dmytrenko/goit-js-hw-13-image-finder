@@ -1,3 +1,6 @@
+https://inna-dmytrenko.github.io/goit-js-hw-13-image-finder/
+
+
 # parcel-project-template
 
 ## Зависимости
